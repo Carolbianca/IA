@@ -30,20 +30,24 @@ alternativas: [
 {
 texto: "a)   A urbanização é um fenômeno exclusivo dos países desenvolvidos, não ocorrendo em países em desenvolvimento.",
 
-afirmacao: " Está alternativa está incorreta." 
+afirmacao: [" Está alternativa está incorreta." ,
+    "Não foi dessa vez"]
 },
 {
 texto: "b) A urbanização é um processo que ocorre apenas devido ao crescimento natural da população urbana.",
 
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez"]
 },
 {
 texto: "c) A urbanização não tem relação com a intensificação das atividades econômicas nas cidades.",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez"]
 },
 {
 texto: "d) A urbanização é impulsionada por fatores como o êxodo rural e o desenvolvimento industrial.",
-afirmacao: "1-D)Esta alternativa está correta "
+afirmacao: ["1-D)Esta alternativa está correta ",
+     "Parabéns"]
 }
 
 ]
@@ -53,21 +57,26 @@ enunciado: "2 - As cidades, enquanto local de habitação de muitas pessoas, con
 alternativas: [
 {
 texto: "a) Desemprego.",
-afirmacao: "Está altenativa está incorreta.  "
+afirmacao: ["Está altenativa está incorreta.  ",
+"Não foi dessa vez"]
 },
 {
 texto: "b) Criminalidade.",
 
-afirmacao: "Está altenativa está incorreta. "
+afirmacao: ["Está altenativa está incorreta. ",
+"Não foi dessa vez"]
 
 },
 {
 texto: "c) Falta de moradia adequada.",
-afirmacao: "Está altenativa está incorreta. "
+afirmacao: ["Está altenativa está incorreta. ",
+"Não foi dessa vez"]
 },
 {
 texto: "d) Falta de nutrientes no solo.",
-afirmacao: "2-D)Esta alternativa está correta "
+afirmacao: ["2-D)Esta alternativa está correta ",
+"Parabéns"]
+
 }
 ]
 },
@@ -76,21 +85,25 @@ afirmacao: "2-D)Esta alternativa está correta "
 alternativas: [
 {
 texto: "a) pela retração do setor terciário diante dos movimentos urbanos de compartilhamento de bens e serviços.",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez"]
 },
 {
 texto: "b) pelo conflito jurídico na regulação do solo urbano, como resultado da conurbação entre as cidades.",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez"]
 },
 {
 texto: "c) pelo registro de maior crescimento populacional em cidades médias, quando comparado ao das metrópoles.",
-afirmacao: "3-C) Esta alternativa está correta. "
+afirmacao: ["3-C) Esta alternativa está correta. ",
+"Parabéns"]
 
 },
 
 {
 texto: "d) pela redução das manchas metropolitanas como resultado de uma saturação populacional.",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez"]
 
 }
 ]
